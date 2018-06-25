@@ -9,6 +9,7 @@ ENTRYPOINT ["/usr/bin/validjson"]
 
 RUN apk update && \
   apk upgrade && \
-  apk add nodejs yarn
+  apk add nodejs yarn && \
+  rm -rf /var/cache/apk/*
 
 RUN yarn global add valid-json-cli
