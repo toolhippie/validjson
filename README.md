@@ -1,6 +1,6 @@
-# Validjson
+# validjson
 
-[![Build Status](https://github.dronehippie.de/api/badges/toolhippie/validjson/status.svg)](https://github.dronehippie.de/toolhippie/validjson)
+[![Build Status](https://cloud.drone.io/api/badges/toolhippie/validjson/status.svg)](https://cloud.drone.io/toolhippie/validjson)
 [![](https://images.microbadger.com/badges/image/toolhippie/validjson:latest.svg)](https://microbadger.com/images/toolhippie/validjson:latest "Get your own image badge on microbadger.com")
 
 TBD
