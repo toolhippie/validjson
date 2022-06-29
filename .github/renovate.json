@@ -3,10 +3,12 @@
     "extends": [
         "github>webhippie/renovate:docker"
     ],
-    "packageRules": [{
-        "groupName": "validjson packages",
-        "matchDatasources": [
-            "npm"
-        ]
-    }]
+    "packageRules": [
+        {
+            "groupName": "validjson packages",
+            "matchDatasources": [
+                "npm"
+            ]
+        }
+    ]
 }
